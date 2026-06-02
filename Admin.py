@@ -7,3 +7,4 @@ class Admin(User):
             password,
             Role.ADMIN
         )
+        

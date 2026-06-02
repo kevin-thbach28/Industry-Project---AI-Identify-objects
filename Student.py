@@ -8,3 +8,4 @@ class Student(User):
             Role.STUDENT
         )
         self.student_id = student_id
+        
